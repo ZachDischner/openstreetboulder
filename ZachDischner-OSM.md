@@ -6,7 +6,9 @@
 ![Boulder](http://i.imgur.com/FNcm7dS.png)
 
 ## Introduction
-I chose to examine my home town of Boulder, Colorado with OSM data. It has a good mix of city, farmland, and more rural mountainous terrain. 
+I chose to examine my home town of Boulder, Colorado with OSM data. It has a good mix of city, farmland, and more rural mountainous terrain.
+
+Download Boulder's (or another city) osm data and store as `mapdata.osm` locally.
 
 Some general stats for the Boulder area:
 
